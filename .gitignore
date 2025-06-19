@@ -1,0 +1,26 @@
+# Gradle files
+.gradle/
+build/
+
+# IDE settings
+*.iml
+.idea/
+*.classpath
+*.project
+*.settings/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs and temp
+*.log
+*.tmp
+
+# Java
+*.class
+*.jar
+*.war
+
+# Environment
+.env
